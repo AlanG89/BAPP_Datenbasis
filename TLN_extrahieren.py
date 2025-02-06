@@ -96,5 +96,3 @@ for file_name in os.listdir(source_folder):
                 last_row += 1
 
             excel_file.save('C:\\Users\\alang\\Downloads\\Erstellung_BAPP\\Prüfvermerk.xlsx')
-
-
